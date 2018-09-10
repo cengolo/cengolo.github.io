@@ -34,7 +34,9 @@
     "siteFonts": [],
     "uniqCompNum": 23,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/db-logo-128x164.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
